@@ -88,16 +88,16 @@ button:hover,
 }
 
 
-/* Default (this is great for your own brand color!) */
-.button.button-default2 {
+/* gmail */
+.button.button-gmail {
   color: #ffffff;
   background: linear-gradient(45deg, #DB4437, #F4B400, #0F9D58, #4285F4);
   border: none;
   border-radius: 5px;
   transition: filter 0.3s ease;
 }
-.button.button-default2:hover,
-.button.button-default2:focus {
+.button.button-gmail:hover,
+.button.button-gmail:focus {
   filter: brightness(90%);
 }
 
