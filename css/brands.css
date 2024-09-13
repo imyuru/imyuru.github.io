@@ -89,15 +89,15 @@ button:hover,
 
 
 /* gmail */
-.button.button-gmail {
+.button.button-default2 {
   color: #ffffff;
   background: linear-gradient(45deg, #DB4437, #F4B400, #0F9D58, #4285F4);
   border: none;
   border-radius: 5px;
   transition: filter 0.3s ease;
 }
-.button.button-gmail:hover,
-.button.button-gmail:focus {
+.button.button-default2:hover,
+.button.button-default2:focus {
   filter: brightness(90%);
 }
 
