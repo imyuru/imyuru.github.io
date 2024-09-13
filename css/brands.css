@@ -101,6 +101,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+.button.button-default3 {
+  color: #000000;
+  background-color: #ffffff;
+  border: 1px solid #212121;
+}
+.button.button-default3:hover,
+.button.button-default3:focus {
+  filter: brightness(90%);
+}
+
 /* Amazon */
 .button.button-amazon {
   color: #000000;
