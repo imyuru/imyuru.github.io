@@ -566,6 +566,21 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Botón Gmail con degradado permanente */
+.button.button-gmail {
+  color: #ffffff;
+  background: linear-gradient(45deg, #DB4437, #F4B400, #0F9D58, #4285F4);
+  border: none;
+  border-radius: 5px;
+  transition: filter 0.3s ease;
+}
+
+.button.button-gmail:hover,
+.button.button-gmail:focus {
+  filter: brightness(90%);
+}
+
+
 /* Mailchimp */
 .button.button-mailchimp {
   color: #000000;
@@ -597,6 +612,8 @@ button:hover,
 .button.button-medium:focus {
   filter: brightness(90%);
 }
+
+
 
 /* Microsoft */
 .button.button-microsoft {
@@ -1086,5 +1103,16 @@ button:hover,
 }
 .button.button-zoom:hover,
 .button.button-zoom:focus {
+  filter: brightness(90%);
+}
+
+/* Outlook */
+.button.button-outlook {
+  color: #ffffff;
+  background-color: #000000;
+  border: 1px solid #FFFFFF;
+}
+.button.button-outlook:hover,
+.button.button-outlook:focus {
   filter: brightness(90%);
 }
