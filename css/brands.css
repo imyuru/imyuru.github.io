@@ -880,6 +880,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Telegram */
+.button.button-linkedin {
+  color: #ffffff;
+  background-color: #0077B5 ;
+}
+.button.button-telegram:hover,
+.button.button-telegram:focus {
+  filter: brightness(90%);
+}
+
+
 /* Threads */
 .button.button-threads {
   color: #FFFFFF;
