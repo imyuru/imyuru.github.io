@@ -101,10 +101,12 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* outlook */
+
 .button.button-default3 {
-  color: #000000;
-  background-color: #ffffff;
-  border: 1px solid #212121;
+  color: #FFFFFF;
+  background-color: #000000;
+  border: 1px solid #FFFFFF;
 }
 .button.button-default3:hover,
 .button.button-default3:focus {
